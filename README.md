@@ -13,7 +13,7 @@
 (https://docs.google.com/document/d/1bxR0w9tTqd1HvLfVfjjISq9WXioqWnA-ikZjgHhEYiE/edit?tab=t.0)
 
 ### Se adjunta una muestra de como llevar el control de pulsaciones
-[[Control Cardio](AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
+https://docs.google.com/spreadsheets/d/17HbHkuaP9t9WTHSrGlbI9VPB8DoB_6XrzstJBUulCrM/edit?gid=0#gid=0
 
 ### Presentaciones sobre rutinas y ejercicios para mantener el físico ante cambios alimenticios.
-[[Presentaciones]((AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
+https://app.presentations.ai/#/docs/edit/10350764
